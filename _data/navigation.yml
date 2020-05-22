@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Machine Learning"
     url: /machine-learing/
+  - title: "Projects"
+    url: /image-processing-project/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

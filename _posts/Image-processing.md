@@ -1,6 +1,6 @@
 ---
-title: "Image Processing Project"
-permalink: /Image Processing Project/
+title: "ImageProcessing Project"
+permalink: /image-processing-project/
 date: 2019-04-25
 tags: [machine learning, data science, neural network, U-net]
 header:
