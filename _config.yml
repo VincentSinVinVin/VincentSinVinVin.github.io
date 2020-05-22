@@ -98,7 +98,7 @@ author:
   bio              : "Data Science Portfolio"
   location         : "San Francisco, CA"
   email            : "vsin781@gmail.com"
-  gitHub           : "VincentSinVinVin"
+  gitHub           : "https://github.com/VincentSinVinVin"
   instagram        : "SinVinVin"
   Linkedin         : "www.linkedin.com/in/vincentlfsin"
   links:
@@ -116,7 +116,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "VincentSinVinVin"
-      # url: "https://github.com/"
+      url: "https://github.com/VincentSinVinVin"
     - label: "Instagram"
       icon: "SinVinVin"
       # url: "https://instagram.com/"
