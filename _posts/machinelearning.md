@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "ML posts by tags"
 permalink: /machine-learning/
 author_profile: true
