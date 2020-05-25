@@ -1,10 +1,10 @@
 ---
 title: "ImageProcessing Project"
-permalink: /image-processing-project/
+permalink: /ip/
 date: 2019-04-25
 tags: [machine learning, data science, neural network, U-net]
 header:
-  image: "/images/warm_rain.jpg"
+  image: "/images/osaka_signs.jpg"
 excerpt: "Machine Learning, Data Science, U-net"
 mathjax: "true"
 ---

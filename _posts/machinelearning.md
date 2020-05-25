@@ -1,11 +1,14 @@
 ---
 layout: archive
-permalink: /machine-learning/
 title: "ML posts by tags"
+permalink: /machine-learning/
 author_profile: true
 header:
   image: "/images/rainy_crossroad.jpg"
 ---
+
+
+
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}

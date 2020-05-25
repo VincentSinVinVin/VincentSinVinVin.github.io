@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Machine Learning"
-    url: /machine-learing/
+    url: /machine-learning/
   - title: "Projects"
-    url: /image-processing-project/
+    url: /ip/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
